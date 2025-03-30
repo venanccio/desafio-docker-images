@@ -3,11 +3,12 @@
   # 01 - Primeiro Docker File
   
     # build
-![01](https://github.com/user-attachments/assets/7c307d0c-54d0-4219-8cf5-545259298096)
+![01](https://github.com/user-attachments/assets/3e851bdd-9082-46b3-abd1-c18d18546b2f)
 
     # deploy
-![02](https://github.com/user-attachments/assets/4c2f74e2-2ad7-4c8f-a566-8c8e9f19ab8e)
+![02](https://github.com/user-attachments/assets/7b2665de-6658-4491-a4a6-bf8e36d43ba5)
 
     # App Online
-![03](https://github.com/user-attachments/assets/7c06b934-cc53-4b4e-acc2-3b413f7f2d00)
+![03](https://github.com/user-attachments/assets/4f71e195-6990-4228-a737-a54675e3ec08)
+
 
