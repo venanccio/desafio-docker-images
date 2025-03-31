@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  video-converter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./videos:/videos 
+    working_dir: /videos 
+    entrypoint: ["convert.sh"] 
