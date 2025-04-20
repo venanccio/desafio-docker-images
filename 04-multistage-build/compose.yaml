@@ -1,0 +1,13 @@
+services:
+  bbb-converter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./videos:/videos
+    environment:
+      - TZ=America/Sao_Paulo
+    command: ["/videos/input.mp4", "/videos/output.mp4"]
+
+
+
